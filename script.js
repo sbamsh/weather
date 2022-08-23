@@ -48,6 +48,7 @@ form.addEventListener("submit", e => {
             msg.innerText = "search for valid city";
       })
       input.value = ""
+      //axe svg link dade shude moshkel dare kolan axo neshon nemide
           
 } )
 
